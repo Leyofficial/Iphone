@@ -329,6 +329,8 @@ transition: .3s ease;
 }
 .phone {
     text-align: center;
+    display:none;
+    color: black;
 }
 .menu {
 position: absolute;
@@ -404,6 +406,7 @@ padding-bottom: 40px;
         margin-top: 50px;
         order: 3;
         width: 100%;
+        color: black;
     }
     .nav{
         flex-wrap: wrap;
